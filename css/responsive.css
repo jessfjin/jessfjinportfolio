@@ -94,7 +94,7 @@
 }
  @media screen and (max-width: 480px) {
 .banner-text {
-	padding-top: 45%;
+	padding-top: 30%;
 	text-align: right;
 }
 .banner-text h1 {
@@ -112,7 +112,7 @@
 	height: 30px!important;
 }
 .banner-text {
-	padding-top: 55%;
+	padding-top: 30%;
 	text-align: center;
 }
 .banner-text h1 {
