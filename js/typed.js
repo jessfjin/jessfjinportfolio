@@ -98,8 +98,8 @@
 	};
 
 	Typed.prototype = {
-
-		constructor: Typed,
+ 
+ 		constructor: Typed,
 
 		init: function() {
 			// begin the loop w/ first current string (global self.strings)
